@@ -1,0 +1,55 @@
+"Phrases"
+{
+	"YouReSpectator"
+	{
+		"en"		"You are spectator so you cannot use the vipmenu"
+	}
+	"YouHaveAlreadyUseTheMenu"
+	{
+		"en"		"You can only use the vipmenu one time per round and u have already used it"
+	}
+	"YouChoosedAKD"
+	{
+		"en"		"You Have Choosed The Bonus AK + Deagle"
+	}
+	"YouChoosedM4D"
+	{
+		"en"		"You Have Choosed The Bonus M4A4 + Deagle"
+	}
+	"YouChoosedM4AD"
+	{
+		"en"		"You Have Choosed The Bonus M4A1 + Deagle"
+	}
+	"AWDeag"
+	{
+		"en"		"You Have Choosed The Bonus AWP + Deagle"
+	}
+	"YouHaveDisabledTheRankTag"
+	{
+		"en"		"You have disabled the rank tag"
+	}
+	"YouHaveEnabledTheRankTag"
+	{
+		"en"		"You have enabled the rank tag"
+	}
+	"DuelCancelled"
+	{
+		"en"		"The Duel Has been cancelled"
+	}
+	"YouHaveDisabledTheBatman"
+	{
+		"en"		"You have disabled the batman player model"
+	}
+	"YouHaveEnabledTheBatman"
+	{
+		"en"		"You have enabled the batman player model"
+	}
+	"YouHaveEnabledTheModel"
+	{
+		"en"		"You have enabled the player model"
+	}
+	"YouHaveEnabledTheSound"
+	{
+		"en"		"You have enabled the kill sound"
+	}
+}
